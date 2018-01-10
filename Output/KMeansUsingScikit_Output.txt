@@ -1,0 +1,12 @@
+%run "C:\Users\surya\Desktop\DecemberBreak\RunPy\KMeans\KMeansUsingScikit.py"
+Data Shape:  (3000, 2)
+Data Head:            V1         V2
+0   2.072345  -3.241693
+1  17.936710  15.784810
+2   1.083576   7.319176
+3  11.120670  14.406780
+4  23.711550   2.557729
+Number of Clusters = 3
+Labels of the Clusters:  [2 2 2 ..., 1 1 1]
+Column values of the data:  [  2.072345  17.93671    1.083576 ...,  64.46532   90.72282   64.87976 ]
+Row values of the data:  [ -3.241693  15.78481    7.319176 ..., -10.50136  -12.25584  -24.87731 ]
